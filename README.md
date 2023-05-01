@@ -15,14 +15,13 @@
 ##### -Languages: English (Close to native), German/Deutsch (B1)
 
 ###  🪴 Currently learning 🪴 
-##### -Dashboards with Shiny Apps
-##### -Text minning
-##### -Power BI
+##### * Dashboards with Shiny Apps
+##### * Text minning
+#####  Power BI
 
 ###  🎇🎁 Portfolio 🎁🎇 
-##### - Some cool projects using machine learning and graphs
-##### -My peer-reviewed [scientific publications](https://scholar.google.com/citations?user=OjG3HFQAAAAJ&hl=en)
-
+##### - My peer-reviewed [scientific publications](https://scholar.google.com/citations?user=OjG3HFQAAAAJ&hl=en)
+##### - Some cool projects can be found below
 
 <!-- 
 
