@@ -21,7 +21,7 @@
 
 ###  🎇🎁 Portfolio 🎁🎇 
 ##### - Some cool projects using machine learning and graphs
-##### -My peer-reviewed scientific publications
+##### -My peer-reviewed [scientific publications](https://scholar.google.com/citations?user=OjG3HFQAAAAJ&hl=en)
 
 
 <!-- 
