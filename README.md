@@ -21,7 +21,7 @@ I am Benjamin Owusu, an applied macroeconomist with passion for data analysis/da
 
 
 
-###  🎇🎁 Portfolio 🎁🎇 
+###  💻🎁 Portfolio 🎁💻 
 - My peer-reviewed [scientific publications](https://scholar.google.com/citations?user=OjG3HFQAAAAJ&hl=en)
 - Some cool projects can be found below
 
