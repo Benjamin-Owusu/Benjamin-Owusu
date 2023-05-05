@@ -9,7 +9,7 @@ I am Benjamin Owusu, an applied macroeconomist with passion for data analysis/da
 - I have skills in analyzing time series, cross sectional and  panel data analysis
 
 ###  📚🧠Core competencies  🧠 📚
- - Main tools: R, SQL, Python,
+ - Main tools: R (especially Tidyverse), SQL, Python,
  - Skills: Data cleaning and wrangling, Data analysis, machine learning, Data visualization, Reporting
  - Skills: Research
  - Languages: English (Close to native), German/Deutsch (B1)
