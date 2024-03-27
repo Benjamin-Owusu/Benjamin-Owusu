@@ -1,23 +1,23 @@
 
 ### Hi there 👋
-I am Benjamin Owusu, an applied macroeconomist with passion for data analysis/data science
+I am Benjamin Owusu, an applied Economist with passion for data analysis/data science
 
 ### 💧 About me in 30 seconds 💧 
 - I am an Econ PhD candidate
 - I am currently a teaching and research assistant 
-- I apply statistics and machine learning to macro and micro datasets
+- I apply statistics and econometrics to macro and micro datasets
 - I have skills in analyzing time series, cross sectional and  panel data analysis
 
 ###  📚🧠Core competencies  🧠 📚
- - Main tools: R (especially Tidyverse), SQL, Python,
- - Skills: Data cleaning and wrangling, Data analysis, machine learning, Data visualization, Reporting
+ - Main tools: R, Python
+ - Skills: Statistical modelling, Data analysis, machine learning, Data visualization, Reporting
  - Skills: Research
  - Languages: English (Close to native), German/Deutsch (B1)
 
 ###  🪴 Currently learning 🪴 
- - Dashboards with Shiny Apps
- - Text minning
- - Power BI
+ - Causal Machine learning
+ -  Text minning
+
 
 
 
