@@ -3,8 +3,8 @@
 I am Benjamin Owusu, an applied Economist with passion for data analysis/data science
 
 ### 💧 About me in 30 seconds 💧 
-- I am an Econ PhD candidate
-- I am currently a teaching and research assistant 
+- I hold a PhD in Economics
+- I am currently a post-doctoral researcher
 - I apply statistics and econometrics to macro and micro datasets
 - I have skills in analyzing time series, cross sectional and  panel data analysis
 
