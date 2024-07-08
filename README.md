@@ -15,8 +15,8 @@ I am Benjamin Owusu, an applied Economist with passion for data analysis/data sc
  - Languages: English (Close to native), German/Deutsch (B1)
 
 ###  🪴 Currently learning 🪴 
- - Causal Machine learning
- -  Text minning
+ - Deep learning (Machine Learning)
+ -  Risk modelling
 
 
 
