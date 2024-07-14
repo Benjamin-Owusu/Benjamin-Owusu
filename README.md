@@ -9,7 +9,7 @@ I am Benjamin Owusu, an applied Economist with passion for data analysis/data sc
 - I have skills in analyzing time series, cross sectional and  panel data analysis
 
 ###  📚🧠Core competencies  🧠 📚
- - Main tools: R, Python
+ - Main tools: Python and R
  - Skills: Statistical modelling, Data analysis, machine learning, Data visualization, Reporting
  - Skills: Research
  - Languages: English (Close to native), German/Deutsch (B1)
