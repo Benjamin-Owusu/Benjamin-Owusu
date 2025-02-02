@@ -5,7 +5,8 @@ I am Benjamin Owusu, an applied Economist with passion for data analysis/data sc
 ### 💧 About me in 30 seconds 💧 
 - I hold a PhD in Economics
 - I am currently a post-doctoral researcher
-- I apply statistics and econometrics to macro and micro datasets
+- I apply statistics and econometrics to solve problems
+- I am also interested in applying causal inference techniques to solve problems
 - I have skills in analyzing time series, cross sectional and  panel data analysis
 
 ###  📚🧠Core competencies  🧠 📚
@@ -16,7 +17,7 @@ I am Benjamin Owusu, an applied Economist with passion for data analysis/data sc
 
 ###  🪴 Currently learning 🪴 
  - Deep learning (Machine Learning)
- -  Risk modelling
+ -  
 
 
 
