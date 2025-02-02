@@ -17,7 +17,8 @@ I am Benjamin Owusu, an applied Economist with passion for data analysis/data sc
 
 ###  🪴 Currently learning 🪴 
  - Deep learning (Machine Learning)
- -  
+ - Causal Machine Learning
+ 
 
 
 
